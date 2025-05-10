@@ -18,4 +18,4 @@ ach project lives in its own folder or GitHub repository and is structured for e
 
 **Tech Stack:** *HTML, CSS, Vanilla Javascript, PHP*
 
-*A simple contact form that uses PHP to handle backend form submission.*
+*A simple contact form that uses PHP to handle backend form submission and PHPMyAdmin and XAMPP for the backend.*
