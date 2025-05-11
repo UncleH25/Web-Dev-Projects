@@ -22,6 +22,6 @@ ach project lives in its own folder or GitHub repository and is structured for e
 
 ### 3. [✅ Task Manager](https://github.com/UncleH25/Task-Manager)
 
-**Tech Stack:** *HTML, CSS, Javascript (React)*
+**Tech Stack:** *HTML, CSS, Javascript (React using Vite)*
 
-*A basic task manager app built with React.*
+*A basic task manager app built with React alongside Vite.*
