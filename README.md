@@ -14,13 +14,13 @@ ach project lives in its own folder or GitHub repository and is structured for e
 
 *A simple weather application that allows users to check current weather conditions using the OpenWeatherMap API.*
 
-### 2. [✉️ Simple Contact Form (PHP Backend)](https://github.com/UncleH25/Simple-Contact-Form)
+### 2. [✉️ Simple Contact Form (PHP Backend)]()
 
 **Tech Stack:** *HTML, CSS, Vanilla Javascript, PHP*
 
 *A simple contact form that uses PHP to handle backend form submission and PHPMyAdmin and XAMPP for the backend.*
 
-### 3. [✅ Task Manager](https://github.com/UncleH25/Task-Manager)
+### 3. [✅ Task Manager]()
 
 **Tech Stack:** *HTML, CSS, Javascript (React using Vite)*
 
