@@ -20,7 +20,7 @@ ach project lives in its own folder or GitHub repository and is structured for e
 
 *A simple contact form that uses PHP to handle backend form submission and PHPMyAdmin and XAMPP for the backend.*
 
-### 3. [✅ Simple Task Manager]()
+### 3. [✅ Simple Task Manager](https://github.com/UncleH25/Simple-Task-Dashboard)
 
 **Tech Stack:** *HTML, CSS, Javascript (React using Vite)*
 
