@@ -24,4 +24,4 @@ ach project lives in its own folder or GitHub repository and is structured for e
 
 **Tech Stack:** *HTML, CSS, Javascript (React using Vite)*
 
-*A basic task manager app built with React alongside Vite.*
+*A simple, modern React dashboard for managing your daily tasks.*
