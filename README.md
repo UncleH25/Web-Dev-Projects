@@ -25,3 +25,9 @@ ach project lives in its own folder or GitHub repository and is structured for e
 **Tech Stack:** *HTML, CSS, Javascript (React using Vite)*
 
 *A simple, modern React dashboard for managing your daily tasks.*
+
+### 4. [🧠 Community Q&A Board](https://github.com/UncleH25/Community-Q-A-Board)
+
+**Tech Stacke:** *HTML, CSS, Javascript (React using Vite), PHP*
+
+*a simple, reddit inspired community dashboard to post answer, and view questions.*
